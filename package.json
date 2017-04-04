@@ -1,0 +1,22 @@
+{
+  "name": "voting-app",
+  "version": "1.0.0",
+  "description": "Voting app for FreeCodeCamp.com backend certification program.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node spec/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jskobos/voting-app.git"
+  },
+  "author": "Jared Kobos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jskobos/voting-app/issues"
+  },
+  "homepage": "https://github.com/Jskobos/voting-app#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
